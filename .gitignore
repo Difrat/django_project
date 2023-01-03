@@ -1,0 +1,4 @@
+/venv
+/django_project/db.sqlite3
+/django_project/manage.py
+/.gitignore
